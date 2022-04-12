@@ -1,2 +1,3 @@
-# Snake Game With React
+# Snake
+Snake made with React and HTML Canvas
 
